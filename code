@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        adding a  audio  file  ..
 
+    </title>
+    <style>
+    
+        .a{
+            padding : 100px;
+            margin-right:100px;
+        }
+        .float{
+            float: left;
+            padding: 100px;
+            caption-side: dhoni;
+        }
+    </style>
+</head>
+<body>
+    <div> <video src="guru.mp4"height="300"controls></video>
+    </div class="a">
+<audio src="waydown.mp3"controls autoplay>play
+
+    </audio>
+    <div class="float">
+        <img src="dhoni.jpg"height="150px">
+    </div>
+</body>
+</html>
